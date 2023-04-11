@@ -22,7 +22,7 @@ At my core, I’m a geek for systems. I have an innate drive to systematise, opt
 I specialise in JavaScript - primarily across the M.E.R.N. stack - and am comfortable with TypeScript, Ruby, Tailwind CSS and testing frameworks like Cypress and Jest. My interests tend towards the backend, and I’m keen to develop my skills in data management and information security (to which end I am learning Python).
 
 
-## <a name="tech-stack">I have technical experience with: </a> 
+## <a name="tech-stack"> Technical experience </a> 
 
 ### Languages
 
@@ -122,8 +122,10 @@ Nominee, Outstanding Network of the Year, Rainbow Honours 2022
 
 **Business Development Executive (Agencies Lead)**
 
-*Led the agencies desk at Linkfluence UK* 
-- Principal focus was to establish commercial relationships with social media, digital and strategy professionals in the global agency sector, consult on the provision of social media intelligence among Linkfluence's agency clients and prospects, and champion the work of the company in this space
+*Led the agencies BD desk at Linkfluence UK* 
+- Establish commercial relationships with social media, digital and strategy professionals in the global agency sector
+- Consult on the provision of social media intelligence among Linkfluence's agency clients and prospects
+- Champion the work of the company in this space
 - Market remit covering the UK, Ireland, North America and anglophone Africa.
 
 
