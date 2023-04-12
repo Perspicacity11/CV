@@ -54,12 +54,11 @@ I specialise in JavaScript - primarily across the M.E.R.N. stack - and am comfor
 
 | Project (Repo)   | Description | Live link | Technologies |
 |---        |---          |---   |---           |
-| [eatGPT](https://github.com/addauk/recipe-generator) | Combined recipe generator/culinary social media service for time-poor cooks and show-off chefs, built on the MERN stack as bootcamp final project | ADD URL WHEN DEPLOYED | ReactJS, NodeJS, MongoDB, CSS, Heroku |
-| [burnbook](https://github.com/SimpleLuke/acebook-fire) | Social network service built from a basic legacy codebase on the MERN stack | ADD URL WHEN DEPLOYED | ReactJS, NodeJS, MongoDB, CSS, Heroku |
+| [eatGPT](https://github.com/addauk/recipe-generator) | Combined recipe generator/culinary social media service for time-poor cooks and show-off chefs, built on the MERN stack as bootcamp final project | ADD URL WHEN DEPLOYED | ReactJS, NodeJS, ExpressJS, MongoDB, CSS, Heroku |
+| [burnbook](https://github.com/SimpleLuke/acebook-fire) | Social network service built from a basic legacy codebase on the MERN stack | ADD URL WHEN DEPLOYED | ReactJS, NodeJS, MongoDB, ExpressJS, CSS, Heroku |
 | [MakersBnB](https://github.com/SimpleLuke/makersbnb-ruby) | Database-backed, account-based system for owners to list their properties for short-term let, and for users to lease those properties. | ADD URL WHEN DEPLOYED | Ruby (ActiveRecord), Sinatra, PostgreSQL, RSPEC, Rackup |
 | [Guardian Digest](https://github.com/Perspicacity11/Guardian-Digest) | API-powered news summary app allowing for aggregation and display of Guardian UK articles by topic | ADD URL WHEN DEPLOYED | Ruby |
 | [Personal website]() | Built from scratch with React and Tailwind. | ADD URL WHEN DEPLOYED | ReactJS, HTML, CSS |
-| [Chitter](https://github.com/Perspicacity11/chitter-challenge) | DESCRIPTION | ADD URL WHEN DEPLOYED | Ruby, RSpec |
 
 For more, please see my [GitHub repo list](https://github.com/Perspicacity11?tab=repositories).
 
@@ -105,9 +104,11 @@ BSc International Relations (2:1) with a focus on foreign policy analysis, inter
 - Initiated a work programme to make the FT into the most trans- and nonbinary-inclusive major media company in the world. 
 - Co-authored and delivered the FT's UK Trans Inclusion Policy, subsequently implemented in FT US
 - Chair of the communications team & editor of the global newsletter
+- Top 10 Employee Network, British LGBT Awards 2022
+- Nominee, Outstanding Network of the Year, Rainbow Honours 2022
 
-Top 10 Employee Network, British LGBT Awards 2022
-Nominee, Outstanding Network of the Year, Rainbow Honours 2022
+<a href="https://britishlgbtawards.com/network-rail-top-10-network-group-erg-2022/"><img src="LGBTAwards.jpg" width="250" alt="Medium"></a>
+<a href="https://www.rainbowhonours.com/shortlist-2022.html"><img src="proud-ft_orig.jpg" width="250" alt="Medium"></a>
 
 **Special Projects Coordinator, FT Specialist**
 
