@@ -18,7 +18,7 @@ Experienced media professional making a career-change into the technology space,
 
 At my core, I’m a geek for systems. I have an innate drive to systematise, optimise and structure processes to achieve high-quality outcomes. This inclination has allowed me to deliver complex, multi-stakeholder projects - from tech RFPs to corporate policy to commercial media content - at the highest level of the UK news sector. I’m driven towards the public good, and think about my work with an eye towards its impact in advancing society, making life operationally easier and safer, more inclusive and less negatively impactful.
 
-I specialise in JavaScript - primarily across the M.E.R.N. stack - and am comfortable with TypeScript, Ruby, Tailwind CSS and testing frameworks like Cypress and Jest. My interests tend towards the backend, and I’m keen to develop my skills in data management and information security (to which end I am learning Python).
+I specialise in JavaScript - primarily across the M.E.R.N. stack - and am comfortable with TypeScript, Ruby, Tailwind CSS and testing frameworks like Cypress and Jest. My interests tend towards the backend, and I’m keen to develop my skills in data management and information security.
 
 
 ## <a name="tech-stack"> Technical experience </a> 
@@ -50,27 +50,42 @@ I specialise in JavaScript - primarily across the M.E.R.N. stack - and am comfor
 ![Nodemon](https://img.shields.io/static/v1?style=for-the-badge&message=Nodemon&color=222222&logo=Nodemon&logoColor=76D04B&label=)
 ![Render](https://img.shields.io/static/v1?style=for-the-badge&message=Render&color=222222&logo=Render&logoColor=46E3B7&label=)
 
-## <a name="projects"> My headline projects so far 👨‍💻</a>
+## <a name="projects"> My headline projects so far </a>
 
-| Project (Repo)   | Description | Live link | Technologies |
-|---        |---          |---   |---           |
-| [eatGPT](https://github.com/addauk/recipe-generator) | Combined recipe generator/culinary social media service for time-poor cooks and show-off chefs, built on the MERN stack as bootcamp final project | ADD URL WHEN DEPLOYED | ReactJS, NodeJS, ExpressJS, MongoDB, CSS, Heroku |
-| [burnbook](https://github.com/SimpleLuke/acebook-fire) | Social network service built from a basic legacy codebase on the MERN stack | ADD URL WHEN DEPLOYED | ReactJS, NodeJS, MongoDB, ExpressJS, CSS, Heroku |
-| [MakersBnB](https://github.com/SimpleLuke/makersbnb-ruby) | Database-backed, account-based system for owners to list their properties for short-term let, and for users to lease those properties. | ADD URL WHEN DEPLOYED | Ruby (ActiveRecord), Sinatra, PostgreSQL, RSPEC, Rackup |
-| [Guardian Digest](https://github.com/Perspicacity11/Guardian-Digest) | API-powered news summary app allowing for aggregation and display of Guardian UK articles by topic | ADD URL WHEN DEPLOYED | Ruby |
-| [Personal website]() | Built from scratch with React and Tailwind. | ADD URL WHEN DEPLOYED | ReactJS, HTML, CSS |
+| Project (Repo)   | Description | Technologies |
+|---        |---          |---              |
+| [eatGPT](https://github.com/addauk/recipe-generator) | Combined recipe generator/culinary social media service for time-poor cooks and show-off chefs, built on the MERN stack as bootcamp final project | ReactJS, NodeJS, ExpressJS, MongoDB, CSS, BCrypt |
+| [burnbook](https://github.com/SimpleLuke/acebook-fire) | Social network service built from a basic legacy codebase on the MERN stack | ReactJS, NodeJS, MongoDB, ExpressJS, CSS |
+| [MakersBnB](https://github.com/SimpleLuke/makersbnb-ruby) | Database-backed, account-based system for owners to list their properties for short-term let, and for users to lease those properties. | Ruby (ActiveRecord), Sinatra, PostgreSQL, RSPEC, Rackup |
+| [Guardian Digest](https://github.com/Perspicacity11/Guardian-Digest) | API-powered news summary app allowing for aggregation and display of Guardian UK articles by topic | Ruby |
+| [Personal website]() | Built from scratch with React and Tailwind. | ReactJS, HTML, CSS |
 
 For more, please see my [GitHub repo list](https://github.com/Perspicacity11?tab=repositories).
 
-## <a name="skills">My primary skills</a>
+## <a name="skills">My primary non-technical skills</a>
+
+TIDY THIS UP
 
 #### Team & project management ####
 
+- Big picture thinking, strategy, able to prioritise and ensure delivery; operational administration
+- I've been a vendor of media intelligence tech and then a client/lead user (as well as an internal trainer); this gives me a holistic view of the commercial side of tech
+- I’m inspired by the great polymaths of history (Da Vinci, Hildegard, Franklin) in their pursuit of general intelligence across a range of fields, and have built a portfolio career to that end. My belief is - given the integrated and interdisciplinary nature of the modern economy - that having a broad knowledge base makes me a more dynamic high-level problem solver, with an ability to draw on techniques from a range of fields to achieve results. 
+- I have experience handling conflict and providing sensitive pastoral support to colleagues and managers, in my role as head of the FT's LGBTQ+ employee network
 
 #### Communication & stakeholder management ####
 
+- Coordinator, organiser of people; communicator, teacher, translator
+- I take the Orwellian approach to communication: simple, descriptive, precise; I apply these principles equally to writing press releases and clean, legible scripts, and always opt for comprehension over brevity
+- Editor and publisher of the ProudFT quarterly newsletter, extensive experience with long-form written communication in the form of reports, press releases and articles
+- Public speaker and corporate consultant
+- Client and executive management, used to communicating complex issues to unfamiliar audiences at all levels of seniority
 
-#### OTHERS ####
+#### Research & learning ####
+
+- Lead researcher and investigative journalist
+- I've jumped into very new fields with little subject matter experience (eg. banking and institutional finance at FT Specialist) and have been noted for quickly developing a strong understanding
+- Research capability required for sales (client prospection and technical sell-in) and communications (producing releases and content on the full breadth of FT editorial output)
 
 ## <a name="education">My education </a>
 
@@ -130,3 +145,11 @@ BSc International Relations (2:1) with a focus on foreign policy analysis, inter
 
 
 ## <a name="interests">My interests</a>
+
+*Diversity, equity and inclusion*
+
+*Gaming*
+
+*Current affairs*
+
+
