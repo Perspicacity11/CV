@@ -2,7 +2,7 @@
 
 # Cassius Naylor #
 
-<a href=""><img src="logo2sq.jpg" width="95" alt="My website"></a>
+<a href="https://github.com/Perspicacity11/Personal-Website"><img src="logo2sq.jpg" width="95" alt="My website"></a>
 <a href="https://www.linkedin.com/in/cassius-naylor/"><img src="linkedin.png" width="95" alt="LinkedIn"></a>
 <a href="https://medium.com/@cassius.cr.naylor"><img src="medium.png" width="95" alt="Medium"></a>
 
@@ -58,7 +58,7 @@ I specialise in JavaScript - primarily across the M.E.R.N. stack - and am comfor
 | [burnbook](https://github.com/SimpleLuke/acebook-fire) | Social network service built from a basic legacy codebase on the MERN stack | ReactJS, NodeJS, MongoDB, ExpressJS, CSS |
 | [MakersBnB](https://github.com/SimpleLuke/makersbnb-ruby) | Database-backed, account-based system for owners to list their properties for short-term let, and for users to lease those properties. | Ruby (ActiveRecord), Sinatra, PostgreSQL, RSPEC, Rackup |
 | [Guardian Digest](https://github.com/Perspicacity11/Guardian-Digest) | API-powered news summary app allowing for aggregation and display of Guardian UK articles by topic | Ruby |
-| [Personal website]() | Built from scratch with React and Tailwind. | ReactJS, HTML, CSS |
+| [Personal website](https://github.com/Perspicacity11/Personal-Website) | Built from scratch with React and Tailwind. | ReactJS, HTML, CSS |
 
 For more, please see my [GitHub repo list](https://github.com/Perspicacity11?tab=repositories).
 
