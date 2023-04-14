@@ -16,9 +16,9 @@
 
 Experienced media professional making a career-change into the technology space, having recently graduated from the Makers Academy software development bootcamp. My  background is in corporate communications, diversity & inclusion, commercial account management and investigative journalism.
 
-At my core, I’m a geek for systems. I have an innate drive to systematise, optimise and structure processes to achieve high-quality outcomes. This inclination has allowed me to deliver complex, multi-stakeholder projects - from tech RFPs to corporate policy to commercial media content - at the highest level of the UK news sector. I’m driven towards the public good, and think about my work with an eye towards its impact in advancing society, making life operationally easier and safer, more inclusive and less negatively impactful.
+At my core, I’m a geek for systems. I can't abide inefficiency and have an innate drive to systematise, optimise and structure processes to achieve high-quality outcomes. This inclination has allowed me to deliver complex, multi-stakeholder projects - from tech RFPs to corporate policy to commercial media content - at the highest level of the UK news sector. I’m driven towards the public good, and think about my work with an eye towards its impact in advancing society, making life operationally easier and safer, more inclusive and less negatively impactful.
 
-I specialise in JavaScript - primarily across the M.E.R.N. stack - and am comfortable with TypeScript, Ruby, Tailwind CSS and testing frameworks like Cypress and Jest. My interests tend towards the backend, and I’m keen to develop my skills in data management and information security.
+I specialise in JavaScript - primarily across the M.E.R.N. stack - and am comfortable with TypeScript, Ruby, Tailwind CSS and testing frameworks like Cypress and Jest. My interests are oriented towards full-stack development, and I’m keen to hone my skills in data management, system architecture and information security.
 
 
 ## <a name="tech-stack"> Technical experience </a> 
@@ -70,7 +70,6 @@ For more, please see my [GitHub repo list](https://github.com/Perspicacity11?tab
 - Holistic understanding of the commercial side of tech, as both vendor and client
 - Broad knowledge base from a portfolio career, which allows for dynamic problem-solving using interdisciplinary techniques
 - Conflict resolution and pastoral support experience as a department coordinator and as head of FT's LGBTQ+ network, in which capacity I supported marginalised communities in the media space
-
 
 #### Communication & stakeholder management ####
 
@@ -149,8 +148,12 @@ BSc International Relations (2:1) with a focus on foreign policy analysis, inter
 
 *Diversity, equity and inclusion*
 
+When I'm not coding I'm usually involved in corporate and creative DEI advocacy in my capacity as Policy Lead for Activism & Advocacy at Outvertising. I am also an independent consultant specialising in LGBTQ+ workplace inclusivity, and work that I led has been shortlisted at the British LGBT Awards, the Rainbow Honours and the British Diversity Awards. My work in this space has led me to mentor young LGTBQ+ professionals and students, to speak at conferences and deliver workshops to organisations of all shapes and sizes.
+
 *Gaming*
+
+When I'm not coding or doing D&I, I'm usually playing grand stategy games like Europa Universalis, Stellaris, CK3 or Total War. Otherwise I'm an Xbox loyalist, and you can find me playing RPGs! I value video games for the escapism and they represent the best approach to depressurising that I've yet found. 
 
 *Current affairs*
 
-
+I consider myself a lifelong politics student, and maintain a close interest in the political, economic and geostrategic affairs of the UK, US, China and the EU.  
