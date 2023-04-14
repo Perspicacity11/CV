@@ -64,28 +64,28 @@ For more, please see my [GitHub repo list](https://github.com/Perspicacity11?tab
 
 ## <a name="skills">My primary non-technical skills</a>
 
-TIDY THIS UP
-
 #### Team & project management ####
 
-- Big picture thinking, strategy, able to prioritise and ensure delivery; operational administration
-- I've been a vendor of media intelligence tech and then a client/lead user (as well as an internal trainer); this gives me a holistic view of the commercial side of tech
-- I’m inspired by the great polymaths of history (Da Vinci, Hildegard, Franklin) in their pursuit of general intelligence across a range of fields, and have built a portfolio career to that end. My belief is - given the integrated and interdisciplinary nature of the modern economy - that having a broad knowledge base makes me a more dynamic high-level problem solver, with an ability to draw on techniques from a range of fields to achieve results. 
-- I have experience handling conflict and providing sensitive pastoral support to colleagues and managers, in my role as head of the FT's LGBTQ+ employee network
+- My past roles have required the ability to think strategically, to prioritise effectively, and to exercise judgement in running operations for small, medium and large teams
+- Holistic understanding of the commercial side of tech, as both vendor and client
+- Broad knowledge base from a portfolio career, which allows for dynamic problem-solving using interdisciplinary techniques
+- Conflict resolution and pastoral support experience as a department coordinator and as head of FT's LGBTQ+ network, in which capacity I supported marginalised communities in the media space
+
 
 #### Communication & stakeholder management ####
 
-- Coordinator, organiser of people; communicator, teacher, translator
-- I take the Orwellian approach to communication: simple, descriptive, precise; I apply these principles equally to writing press releases and clean, legible scripts, and always opt for comprehension over brevity
-- Editor and publisher of the ProudFT quarterly newsletter, extensive experience with long-form written communication in the form of reports, press releases and articles
-- Public speaker and corporate consultant
-- Client and executive management, used to communicating complex issues to unfamiliar audiences at all levels of seniority
+- Five years of experience building and managing relationships with clients, partners and internal stakeholders in media and technology
+- Proficient in long-form written communication in form of reports, articles, and press releases (as a journalist, a PR and an independent consultant)
+- Professional public speaker and corporate advisor, comfortable with presenting complex issues to unfamiliar audiences at all levels of seniority
+- Editor and publisher of the ProudFT quarterly newsletter
 
 #### Research & learning ####
 
-- Lead researcher and investigative journalist
-- I've jumped into very new fields with little subject matter experience (eg. banking and institutional finance at FT Specialist) and have been noted for quickly developing a strong understanding
-- Research capability required for sales (client prospection and technical sell-in) and communications (producing releases and content on the full breadth of FT editorial output)
+- Former investigative journalist
+- Strong research capability as required for sales (client prospection and technical sell-in) and communications (producing releases and content on the full breadth of FT editorial output)
+- Stepped into new fields with little previous subject matter experience (eg. banking and institutional finance at FT Specialist) and am able to quickly develop my understanding to maximise effectiveness
+
+
 
 ## <a name="education">My education </a>
 
