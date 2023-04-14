@@ -122,8 +122,9 @@ BSc International Relations (2:1) with a focus on foreign policy analysis, inter
 - Top 10 Employee Network, British LGBT Awards 2022
 - Nominee, Outstanding Network of the Year, Rainbow Honours 2022
 
-<a href="https://britishlgbtawards.com/network-rail-top-10-network-group-erg-2022/"><img src="LGBTAwards.jpg" width="250" alt="Medium"></a>
-<a href="https://www.rainbowhonours.com/shortlist-2022.html"><img src="proud-ft_orig.jpg" width="250" alt="Medium"></a>
+<a href="https://britishlgbtawards.com/network-rail-top-10-network-group-erg-2022/"><img src="LGBTAwards.jpg" width="250" alt="LGBTAs"></a>
+<a href="https://www.rainbowhonours.com/shortlist-2022.html"><img src="proud-ft_orig.jpg" width="250" alt="RHs"></a>
+<a href="https://www.britishdiversityawards.com/shortlist-2023?pgid=lcozrgx1-e6fae771-14b9-46bb-8b2a-8052d304ebdc"><img src="BDAs.png" width="250" alt="BDAs"
 
 **Special Projects Coordinator, FT Specialist**
 
