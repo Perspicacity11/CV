@@ -118,8 +118,7 @@ BSc International Relations (2:1) with a focus on foreign policy analysis, inter
 - Initiated a work programme to make the FT into the most trans- and nonbinary-inclusive major media company in the world. 
 - Co-authored and delivered the FT's UK Trans Inclusion Policy, subsequently implemented in FT US
 - Chair of the communications team & editor of the global newsletter
-- Top 10 Employee Network, British LGBT Awards 2022
-- Nominee, Outstanding Network of the Year, Rainbow Honours 2022
+- Led work shortlisted for the British LGBT Awards 2022, Rainbow Honours 2022 and British Diversity Awards 2023
 
 <a href="https://britishlgbtawards.com/network-rail-top-10-network-group-erg-2022/"><img src="LGBTAwards.jpg" width="250" alt="LGBTAs"></a>
 <a href="https://www.rainbowhonours.com/shortlist-2022.html"><img src="proud-ft_orig.jpg" width="250" alt="RHs"></a>
@@ -146,14 +145,14 @@ BSc International Relations (2:1) with a focus on foreign policy analysis, inter
 
 ## <a name="interests">My interests</a>
 
-*Diversity, equity and inclusion*
+**Diversity, equity and inclusion
 
 When I'm not coding I'm usually involved in corporate and creative DEI advocacy in my capacity as Policy Lead for Activism & Advocacy at Outvertising. I am also an independent consultant specialising in LGBTQ+ workplace inclusivity, and work that I led has been shortlisted at the British LGBT Awards, the Rainbow Honours and the British Diversity Awards. My work in this space has led me to mentor young LGTBQ+ professionals and students, to speak at conferences and deliver workshops to organisations of all shapes and sizes.
 
-*Gaming*
+**Gaming
 
 When I'm not coding or doing D&I, I'm usually playing grand stategy games like Europa Universalis, Stellaris, CK3 or Total War. Otherwise I'm an Xbox loyalist, and you can find me playing RPGs! I value video games for the escapism and they represent the best approach to depressurising that I've yet found. 
 
-*Current affairs*
+**Current affairs
 
 I consider myself a lifelong politics student, and maintain a close interest in the political, economic and geostrategic affairs of the UK, US, China and the EU.  
