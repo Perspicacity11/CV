@@ -57,7 +57,7 @@ I specialise in JavaScript - primarily across the M.E.R.N. stack - and am comfor
 | [eatGPT](https://github.com/addauk/recipe-generator) | Combined recipe generator/culinary social media service for time-poor cooks and show-off chefs, built on the MERN stack as bootcamp final project | ReactJS, NodeJS, ExpressJS, MongoDB, CSS, BCrypt |
 | [burnbook](https://github.com/SimpleLuke/acebook-fire) | Social network service built from a basic legacy codebase on the MERN stack | ReactJS, NodeJS, MongoDB, ExpressJS, CSS |
 | [MakersBnB](https://github.com/SimpleLuke/makersbnb-ruby) | Database-backed, account-based system for owners to list their properties for short-term let, and for users to lease those properties. | Ruby (ActiveRecord), Sinatra, PostgreSQL, RSPEC, Rackup |
-| [Guardian Digest](https://github.com/Perspicacity11/Guardian-Digest) | API-powered news summary app allowing for aggregation and display of Guardian UK articles by topic | Javascript, Jest, ESBuilt, Guardian API |
+| [JS-PY Translator](https://github.com/Perspicacity11/JS-PY-Translator) | Simple Django app that receives unformatted JS code and translates it into formatted Python3, powered by the OpenAI API | Python, Django, HTML, Bootstrap CSS, OpenAI API |
 | [Personal website](https://github.com/Perspicacity11/Personal-Website) | Single-page portfolio website built with React and Bootstrap. | ReactJS, HTML, CSS |
 
 For more, please see my [GitHub repo list](https://github.com/Perspicacity11?tab=repositories).
