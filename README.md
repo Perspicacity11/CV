@@ -36,6 +36,7 @@ I specialise in JavaScript - primarily across the M.E.R.N. stack - and am comfor
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Frameworks, Platforms and Libraries
 
@@ -43,26 +44,28 @@ I specialise in JavaScript - primarily across the M.E.R.N. stack - and am comfor
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Ruby Sinatra](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+Sinatra&color=000000&logo=Ruby+Sinatra&logoColor=FFFFFF&label=)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Ruby Sinatra](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+Sinatra&color=000000&logo=Ruby+Sinatra&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/static/v1?style=for-the-badge&message=Nodemon&color=222222&logo=Nodemon&logoColor=76D04B&label=)
 ![Render](https://img.shields.io/static/v1?style=for-the-badge&message=Render&color=222222&logo=Render&logoColor=46E3B7&label=)
+![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=430098&logo=Vercel&logoColor=FFFFFF&label=)
 
 ## <a name="projects"> My headline projects so far </a>
 
 | Project (Repo)   | Description | Technologies |
 |---        |---          |---              |
-| [eatGPT](https://github.com/addauk/recipe-generator) | Combined recipe generator/culinary social media service for time-poor cooks and show-off chefs, built on the MERN stack as bootcamp final project | ReactJS, NodeJS, ExpressJS, MongoDB, TailwindCSS, BCrypt |
+| [eatGPT](https://github.com/addauk/recipe-generator) | Combined recipe generator/culinary social media service for time-poor cooks and show-off chefs, built on the MERN stack as bootcamp final project | ReactJS, NodeJS, ExpressJS, MongoDB Atlas, TailwindCSS, BCrypt |
 | [burnbook](https://github.com/SimpleLuke/acebook-fire) | Social network service built from a basic legacy codebase on the MERN stack | ReactJS, NodeJS, MongoDB, ExpressJS, TailwindCSS |
-| [MakersBnB](https://github.com/SimpleLuke/makersbnb-ruby) | Database-backed, account-based system for owners to list their properties for short-term let, and for users to lease those properties. | Ruby (ActiveRecord), Sinatra, PostgreSQL, RSPEC, Rackup |
-| [JS-PY Translator](https://github.com/Perspicacity11/JS-PY-Translator) | Simple Django app that receives unformatted JS code and translates it into formatted Python3, powered by the OpenAI API | Python, Django, HTML, Bootstrap CSS, OpenAI API |
-| [Personal website](https://github.com/Perspicacity11/Personal-Website) | Single-page portfolio website built with React and Bootstrap. | ReactJS, HTML, CSS |
+| [MakersBnB](https://github.com/SimpleLuke/makersbnb-ruby) | Database-backed, account-based system for owners to list their properties for short-term let, and for users to lease those properties. | Ruby (ActiveRecord), Sinatra, PostgreSQL, RSpec, Rackup |
+| [JS-PY Translator](https://github.com/Perspicacity11/JS-PY-Translator) | Django app with a minimal Bootstrap interface, which receives unformatted JS code and translates it into formatted Python3. Powered by the OpenAI API | Python, Django, HTML, Bootstrap CSS, OpenAI API |
+| [Personal website](https://cassiusnaylor.com) | Single-page portfolio website built with React and deployed with Vercel (not currently optimised for mobile). | ReactJS, HTML, CSS, EmailJS, Vercel |
 
 For more, please see my [GitHub repo list](https://github.com/Perspicacity11?tab=repositories).
 
@@ -151,12 +154,12 @@ BSc International Relations (2:1) with a focus on foreign policy analysis, inter
 
 **Diversity, equity and inclusion**
 
-When I'm not coding I'm usually involved in corporate and creative DEI advocacy in my capacity as Policy Lead for Activism & Advocacy at Outvertising. I am also an independent consultant specialising in LGBTQ+ workplace inclusivity, and work that I led has been shortlisted at the British LGBT Awards, the Rainbow Honours and the British Diversity Awards. My work in this space has led me to mentor young LGTBQ+ professionals and students, to speak at conferences and deliver workshops to organisations of all shapes and sizes.
+When I'm not coding I'm usually involved in corporate and creative DEI advocacy in my capacity as Co-Director of Advocacy at Outvertising. I am also an independent consultant specialising in LGBTQ+ workplace inclusivity, and work that I led has been shortlisted at the British LGBT Awards, the Rainbow Honours and the British Diversity Awards. My work in this space has led me to mentor young LGTBQ+ professionals and students, to speak at conferences and deliver workshops to organisations of all shapes and sizes.
 
 **Gaming**
 
-When I'm not coding or doing D&I, I'm usually playing grand stategy games like Europa Universalis, Stellaris, CK3 or Total War. Otherwise I'm an Xbox loyalist, and you can find me playing RPGs! I value video games for the escapism and they represent the best approach to depressurising that I've yet found. 
+And when I'm not doing either of those, I'm usually playing grand stategy games like Europa Universalis, Stellaris, CK3 or Total War. Otherwise I'm an Xbox loyalist, and you can find me playing RPGs! I needed a hobby that allowed me to escape the entrapment stress of lockdown and it's since been remarkably therapeutic. I've even made some friends courtesy of the folks at Gaymers Inc!
 
 **Current affairs**
 
-I consider myself a lifelong politics student, and maintain a close interest in the political, economic and geostrategic affairs of the UK, US, China and the EU.  
+I consider myself a lifelong politics student, and maintain a close interest in the political, economic and geostrategic affairs of the UK, US, China and the EU. I can reliably be spotted in a bar having a 'spirited' discussion about the use of QMV in the European Council, cannabis legalisation, HS2 or some other admittedly bureaucratic topic. I am, avowedly, a dork.
