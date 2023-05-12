@@ -16,9 +16,9 @@
 
 Experienced media professional making a career-change into the technology space, having recently graduated from the Makers Academy software development bootcamp. My  background is in corporate communications, diversity & inclusion, commercial account management and investigative journalism.
 
-At my core, I’m a geek for systems. I can't abide inefficiency and have an innate drive to systematise, optimise and structure processes to achieve high-quality outcomes. This inclination has allowed me to deliver complex, multi-stakeholder projects - from tech RFPs to corporate policy to commercial media content - at the highest level of the UK news sector. I’m driven towards the public good, and think about my work with an eye towards its impact in advancing society, making life operationally easier and safer, more inclusive and less negatively impactful.
+At my core, I’m a geek for systems. I can't abide inefficiency and have an innate drive to systematise, optimise and structure processes in my work to achieve high-quality outcomes; to be less powerpoint about it, I like to make things run better. This inclination has allowed me to deliver complex, multi-stakeholder projects - from tech RFPs to corporate policy to commercial media content - at the highest level of the UK news sector. I’m driven towards the public good, and think about my work with an eye towards its impact in advancing society, making life operationally easier and safer, more inclusive and less harmful to the planet.
 
-I specialise in JavaScript - primarily across the M.E.R.N. stack - and am comfortable with TypeScript, Ruby, Tailwind CSS and testing frameworks like Cypress and Jest. My interests are oriented towards full-stack development, and I’m keen to hone my skills in data management, system architecture and information security.
+I specialise in JavaScript - primarily across the M.E.R.N. stack - and am comfortable with TypeScript, Ruby, CSS, HTML, testing frameworks like Cypress and Jest, and am currently sandboxing with Python and Kotlin. My interests are oriented towards full-stack development, and I’m keen to hone my skills in data management, devops and information security.
 
 
 ## <a name="tech-stack"> Technical experience </a> 
