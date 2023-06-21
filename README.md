@@ -2,9 +2,9 @@
 
 # Cassius Naylor #
 
-<a href="https://www.linkedin.com/in/cassius-naylor/"><img src="linkedin.png" width="95" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/cassius-naylor/"><img src="LinkHex.png" width="95" alt="LinkedIn"></a>
 <a href="https://cassiusnaylor.com"><img src="CN.png" width="95" alt="My website"></a>
-<a href="https://medium.com/@cassius.cr.naylor"><img src="medium.png" width="95" alt="Medium"></a>
+<a href="https://medium.com/@cassius.cr.naylor"><img src="MediumHex.png" width="95" alt="Medium"></a>
 
 #
 
