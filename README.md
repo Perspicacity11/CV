@@ -18,8 +18,7 @@ Experienced media professional making a career-change into the technology space,
 
 At my core, I’m a geek for systems. I can't abide inefficiency and have an innate drive to systematise, optimise and structure processes in my work to achieve high-quality outcomes; to be less powerpoint about it, I like to make things run better. This inclination has allowed me to deliver complex, multi-stakeholder projects - from tech RFPs to corporate policy to commercial media content - at the highest level of the UK news sector. I’m driven towards the public good, and think about my work with an eye towards its impact in advancing society, making life operationally easier and safer, more inclusive and less harmful to the planet.
 
-I specialise in JavaScript - primarily across the M.E.R.N. stack - and am comfortable with TypeScript, Ruby, CSS, HTML, testing frameworks like Cypress and Jest, and am currently sandboxing with Python and Kotlin. My interests are oriented towards full-stack development, and I’m keen to hone my skills in data management, devops and information security.
-
+I am most comfortable in JavaScript - primarily across the M.E.R.N. stack - and am also versed in TypeScript, Ruby, CSS, HTML, and testing frameworks like Cypress and Jest. To extend those skills I recently completed a 14-course IBM certification in DevOps and software engineering, and am undertaking the AWS Cloud Solutions Architect professional cerficiation at associate level. My ideal role would involve working full-stack across the whole development lifecycle, and I’m especially keen to develop my skills in data analysis, information security and applied AI.
 
 ## <a name="tech-stack"> Technical experience </a> 
 
@@ -93,18 +92,24 @@ For more, please see my [GitHub repo list](https://github.com/Perspicacity11?tab
 
 
 
-## <a name="education">My education </a>
+## <a name="education">My education and training </a>
 
-#### [Makers Academy](https://makers.tech/) (January to April 2020)
+#### [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/C8FQMDWDE24B) (May to June 2023)
+
+Cloud Computing (deployment, infrastructure, storage and security) | Linux and shell scripting | Git, Gitflow and GitHub | Python for data science, AI and app development | Containerisation (Docker, Kubernetes, OpenShift) | Microservices architecture and serverless application design | Test-Driven Development | CI/CD | Application security and monitoring | Agile & Scrum
+
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/C8FQMDWDE24B"><img src="IBMDevOps.jpg" width="250" alt="IBM-Cert"></a>
+
+#### [Makers Academy](https://makers.tech/) (January to April 2023)
 
 Full-time software development course focusing on:	
-- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
-- Agile principles, pair programming, stand-ups, retros, and sprint planning
+- Object-Oriented Programming, Test Driven Development, Model-View-Controller design, SOLID principles
+- Agile methodology, pair programming, stand-ups, retros, and sprint planning
 - Web frameworks, version control, and CI/CD to create full stack web apps
 
-#### [London School of Economics](https://lse.ac.uk/) (2014-2017)
+#### [London School of Economics](https://lse.ac.uk/) (2014 - 2017)
 
-BSc International Relations (2:1) with a focus on foreign policy analysis, international economics and transitional justice.
+BSc International Relations (2:1) with a focus on foreign policy analysis, global economics and transitional justice.
 
 ## <a name="experience"> My professional experience </a>
 
